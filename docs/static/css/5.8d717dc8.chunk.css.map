@@ -1,0 +1,1 @@
+{"version":3,"sources":["BasicLayout.module.less"],"names":[],"mappings":"AAAA,8BACE,YACF","file":"5.8d717dc8.chunk.css","sourcesContent":[".layout-container {\n  padding: 20px;\n}\n@hack: true;@import \"/Users/zhaowenhao14/Desktop/实践的Demo/react-timyce/src/styles/theme/variable.less\";"]}
